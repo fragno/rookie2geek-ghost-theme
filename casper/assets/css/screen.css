@@ -1187,6 +1187,18 @@ body.page-template .post-title {
     transform: translateX(-50%);
 }
 
+.post-content h1 {
+    color: rgb(21, 153, 87);
+}
+
+.post-content a {
+    color: #1a0dab;
+}
+
+.post-content a:visited {
+    color: #44374a;
+}
+
 .footnotes {
     font-style: italic;
     font-size: 1.3rem;
